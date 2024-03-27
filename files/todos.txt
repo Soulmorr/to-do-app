@@ -1,8 +1,10 @@
-get monet
+get money
 get wealth
 kiss vika
 get money
 home
 i miss you
 help vika
-hello
+hello world
+get money
+plese
